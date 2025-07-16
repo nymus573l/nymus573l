@@ -8,8 +8,7 @@
 
 ### 🧠 About Me
 
-- 💻 Passionate **multi-language developer**
-- 🛠️ I know **Python**, **JavaScript**, **HTML/CSS**, **C#**, and **Batchfile**
+- 💻 I know **Python**, **JavaScript**, **HTML/CSS**, **C#**, and **Batchfile**
 - 🚀 Always learning, always building
 - i don't really post everything here on github, will post some repositories again soon!
 
